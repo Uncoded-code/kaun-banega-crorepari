@@ -30,8 +30,5 @@ Each question shows four choices: A, B, C, and D. Enter the corresponding number
 Answer correctly to continue to the next question.
 Note
 The game prompt mentions entering 0 to quit, but the current code treats 0 as an incorrect answer.
-
-That last note reflects the current code; you could remove it from the README if you later add a dedicated quit option.
-
     
 5:04 PM
